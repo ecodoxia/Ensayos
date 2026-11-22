@@ -1,4 +1,5 @@
 # La trampa de la dolarización: deterioro del poder adquisitivo en Ecuador, 2020-2026
+![La trampa de la dolarización en Ecuador](descarga.png)
 
 ## Resumen
 
