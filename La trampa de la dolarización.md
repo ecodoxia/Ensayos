@@ -5,7 +5,7 @@
 
 La economía ecuatoriana presenta una paradoja aparente: con una dolarización plena y una inflación anual que en 2024 y 2025 se mantuvo por debajo del 2%, el bienestar material de los hogares debería haber mejorado o, al menos, mantenido su nivel. Sin embargo, los datos del INEC revelan una realidad distinta: entre 2020 y 2026, el **Salario Básico Unificado (SBU)** creció de USD 400 a USD 482, mientras que la **Canasta Familiar Básica (CFB)** lo hizo de aproximadamente USD 712 a USD 833,82. La brecha absoluta entre ambos indicadores se amplió de USD 312 a más de USD 351.
 
-Este ensayo sostiene que la pérdida de poder adquisitivo en Ecuador no se explica por la inflación oficial —que ha sido baja— sino por tres factores estructurales que operan simultáneamente:
+Este ensayo sostiene que la pérdida de poder adquisitivo en Ecuador no se explica por la inflación oficial "que ha sido baja" sino por tres factores estructurales que operan simultáneamente:
 
 1. **La precarización del mercado laboral**, que impide que amplios sectores accedan siquiera al SBU.
 2. **La carga tributaria regresiva**, materializada en el IVA del 15% desde abril de 2024.
@@ -26,7 +26,7 @@ Este segundo factor anula el efecto protector del SBU. De acuerdo con el INEC, a
 Para este universo de trabajadores, la discusión sobre si el SBU creció más o menos que la canasta es irrelevante: su ingreso de referencia no es USD 482, sino montos que en muchos casos no alcanzan los USD 300. La dolarización y la baja inflación no compensan un mercado laboral que expulsa de la formalidad a más de la mitad de su fuerza de trabajo.
 
 ### 3. La política tributaria regresiva
-En abril de 2024, el IVA se elevó del **12% al 15%** como parte de la *Ley para Enfrentar el Conflicto Armado*. Aunque el impacto inflacionario agregado fue moderado —la inflación anual cerró 2024 en 0,53%—, el efecto distributivo fue profundamente regresivo. 
+En abril de 2024, el IVA se elevó del **12% al 15%** como parte de la *Ley para Enfrentar el Conflicto Armado*. Aunque el impacto inflacionario agregado fue moderado (la inflación anual cerró 2024 en 0,53%), el efecto distributivo fue profundamente regresivo. 
 
 Los hogares de menores ingresos destinan una proporción mayor de su presupuesto a bienes y servicios gravados, de modo que un incremento de tres puntos porcentuales en el IVA opera como un impuesto al consumo que castiga con mayor severidad a quienes menos tienen. El INEC registró un aumento en la incidencia de transporte y bienes diversos tras el ajuste, rubros que afectan directamente la movilidad y el acceso a bienes esenciales de los hogares trabajadores.
 
@@ -82,7 +82,7 @@ El límite del modelo actual no es la falta de disciplina monetaria, sino la inc
 
 *Fuente: Cálculo propio con datos de INEC (CFB, IPC) y Ministerio del Trabajo (SBU). Las variaciones por rubro son estimaciones basadas en la estructura de la CFB y los reportes de incidencia inflacionaria.*
 
-**Interpretación del Gráfico 2:** El índice de poder adquisitivo del SBU muestra una recuperación marginal desde 2022, pero se mantiene apenas tres puntos por encima del nivel de 2020. Mientras tanto, los precios de rubros esenciales —especialmente transporte y alimentos— acumulan incrementos muy superiores al crecimiento del salario nominal. La divergencia entre la línea negra (poder adquisitivo estancado) y las líneas de colores (precios en ascenso) ilustra visualmente la ilusión monetaria: el SBU nominal sube, pero su capacidad de compra real no mejora de forma sustantiva, y los bienes que más han encarecido son precisamente los de demanda rígida para los hogares de menores ingresos.
+**Interpretación del Gráfico 2:** El índice de poder adquisitivo del SBU muestra una recuperación marginal desde 2022, pero se mantiene apenas tres puntos por encima del nivel de 2020. Mientras tanto, los precios de rubros esenciales (especialmente transporte y alimentos) acumulan incrementos muy superiores al crecimiento del salario nominal. La divergencia entre la línea negra (poder adquisitivo estancado) y las líneas de colores (precios en ascenso) ilustra visualmente la ilusión monetaria: el SBU nominal sube, pero su capacidad de compra real no mejora de forma sustantiva, y los bienes que más han encarecido son precisamente los de demanda rígida para los hogares de menores ingresos.
 
 ---
 
@@ -95,4 +95,4 @@ El límite del modelo actual no es la falta de disciplina monetaria, sino la inc
 
 ---
 
-💬 *¿Qué opinas sobre este análisis? Te invito a dejar tus comentarios y debatir en la pestaña **Discussions** de este repositorio.*
+
